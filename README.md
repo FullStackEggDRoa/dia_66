@@ -1,5 +1,5 @@
 # Dia_66
-Encuentro Día 64 de Colecciones - Ejercicios 6.
+Encuentro Día 66 de Colecciones - Ejercicios 6.
 <br>
 <br>
 Para su ejecución, es necesario incluir la librería que se detalla a continuación, en ella se encuentra todos las Entidades (Objetos), Servicios y 
